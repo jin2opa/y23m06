@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  background-color: powderblue;
+}
+h1{
+  padding: 10px 0;
+  text-align: center;
+  border-bottom: 3px dotted blue;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  padding: 10px 20px;
+  border-right: 3px dashed blue;
+}
+.part{
+  display: flex;
+}
+.section{
+  padding: 10px;
+}
