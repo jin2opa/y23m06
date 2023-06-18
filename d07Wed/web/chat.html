@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arithmetic Calculator</title>
+</head>
+<body>
+  <h1>Arithmetic Calculator</h1>
+
+  <label for="n1">Number 1:</label>
+  <input type="number" name="n1" id="n1">
+
+  <label for="operator">Operator:</label>
+  <select name="operator" id="operator">
+    <option value="+">+</option>
+    <option value="-">-</option>
+    <option value="*">*</option>
+    <option value="/">/</option>
+  </select>
+
+  <label for="n2">Number 2:</label>
+  <input type="number" name="n2" id="n2">
+
+  <button id="calculate">Calculate</button>
+
+  <h2>Result: <span id="result"></span></h2>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const calculateBtn = document.getElementById('calculate');
+      const resultElement = document.getElementById('result');
+
+      calculateBtn.addEventListener('click', function () {
+        const n1 = parseFloat((document.getElementById('n1')).value);
+        const n2 = parseFloat((document.getElementById('n2')).value);
+        const operator = (document.getElementById('operator')).value;
+
+        let result;
+
+        switch (operator) {
+          case '+':
+            result = n1 + n2;
+            break;
+          case '-':
+            result = n1 - n2;
+            break;
+          case '*':
+            result = n1 * n2;
+            break;
+          case '/':
+            result = n1 / n2;
+            break;
+          default:
+            result = 'Invalid operator';
+            break;
+        }
+
+        resultElement.textContent = result.toString();
+      });
+    });
+  </script>
+</body>
+</html>

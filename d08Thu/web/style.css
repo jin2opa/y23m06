@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpk8YIBLUz4rkB0KcUUA20f2zxMPwgMmKKhA&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+#topic-h1{
+  margin: 0;
+  text-align: center;
+  border-bottom: 2px dashed green;
+}
+main{
+  display: flex;
+}
+nav{
+  padding-right: 20px;
+}
+article{
+  padding-left: 20px;
+}

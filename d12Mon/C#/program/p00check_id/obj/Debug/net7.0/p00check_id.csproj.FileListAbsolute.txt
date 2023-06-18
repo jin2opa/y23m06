@@ -1,0 +1,15 @@
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\bin\Debug\net7.0\p00check_id.exe
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\bin\Debug\net7.0\p00check_id.deps.json
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\bin\Debug\net7.0\p00check_id.runtimeconfig.json
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\bin\Debug\net7.0\p00check_id.dll
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\bin\Debug\net7.0\p00check_id.pdb
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.csproj.AssemblyReference.cache
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.AssemblyInfoInputs.cache
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.AssemblyInfo.cs
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.csproj.CoreCompileInputs.cache
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.dll
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\refint\p00check_id.dll
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.pdb
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\p00check_id.genruntimeconfig.cache
+E:\coding\Daily\y23\m06\d12Mon\C#\program\p00check_id\obj\Debug\net7.0\ref\p00check_id.dll

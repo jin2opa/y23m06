@@ -1,2 +1,6 @@
 *.exe
-*.xlsm 
+*.xlsm
+*.json
+node_modules
+VisualBasic
+TypeScript\*.js

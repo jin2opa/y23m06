@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.image{
+  height:100px;
+  width: 100%;
+  /* ! display가 기본 inline-block이므로 간격 발생*/
+  display: block;
+}
+
+h1{
+  text-align: center;
+  border-bottom: 3px dashed blue;
+  background-color: aquamarine;
+  margin: 0;
+ /*  background-image: url("./20230615.png");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  /* Add any additional CSS properties you need */
+}
+main{
+  display: flex;
+}
+nav{
+  border-right: 3px dotted blue;
+  padding: 10px;
+  padding-left: 20px;
+  flex: 1;
+}
+#sect{
+  padding: 15px;
+  flex: 5;
+}
+footer{
+  border-top: 1px dashed blue;
+  text-align: center;
+}

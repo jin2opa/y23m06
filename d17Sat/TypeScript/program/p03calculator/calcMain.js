@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const calc02_1 = require("./calc02");
+let first = Number(process.argv[2]);
+let second = Number(process.argv[3]);
+let third = Number(process.argv[4]);
+let fourth = Number(process.argv[5]);
+let cal = new calc02_1.Calc02(first, second, third, fourth);
+console.log(cal.add());
+console.log(cal.subtraction());
+console.log(cal.multiply());

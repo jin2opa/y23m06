@@ -1,0 +1,12 @@
+<dl>
+  <dt><h2>1. spiritual</h2></dt>
+  <!-- <i> vs. <em> -->
+  <dd><em>in heaven</em></dd>
+
+  <dt><h2>2. mental</h2></dt>
+  <!-- <bold> vs. <strong> -->
+  <dd><strong>in the heart</strong></dd>
+
+  <dt><h2>3. physical</h2></dt>
+  <dd>in the body</dd>
+</dl>
